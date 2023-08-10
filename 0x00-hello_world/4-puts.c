@@ -1,6 +1,7 @@
-include < stdio.h >
+#include<stdio.h>
 /**
- * main - This is a function
+ * main - Entry point
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
